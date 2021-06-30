@@ -1,6 +1,9 @@
 # Dummy Project
 A dummy project repository to practice using [hub](https://hub.github.com/) command line tool.
 
+# Feature-1
+this is a Feature-1 description.
+
 ### Introduction 
 This is, like i said, a dummy project for learning purposes. Feel free to `fork` this repo, and use it to practice submitting *PR*s.
 
