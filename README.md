@@ -3,6 +3,7 @@ A dummy project repository to practice using [hub](https://hub.github.com/) comm
 
 # Feature-1
 this is a Feature-1 description.
+additional notes for Feature-1
 
 ### Introduction 
 This is, like i said, a dummy project for learning purposes. Feel free to `fork` this repo, and use it to practice submitting *PR*s.
