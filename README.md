@@ -17,4 +17,4 @@ To get started with your first *PR*:
 ### NewBie List
 Name    |   Github Username |   Comments and Remarks
 ----    |   --------------- |   --------------------
-WessCoby    |   @wesscoby   |   I am currently learning about contributing via pull requests, branching, merging, issues that can arrise from pull requests and how to handle them, and also learning how to use the `hub` command line tool
+Vinay    |   vinaymanik   |   first PR and branching. 
