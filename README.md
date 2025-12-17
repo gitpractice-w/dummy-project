@@ -12,6 +12,9 @@ To get started with your first *PR*:
 -   Commit your changes and push to the repository
 -   Then submit the PR.
 
+
+
+
 >   By the way, PR simply stands for `Pull Request` :wink:
 
 ### NewBie List
